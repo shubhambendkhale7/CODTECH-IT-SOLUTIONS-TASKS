@@ -1,9 +1,7 @@
 # CODTECH-Task1
-Name: DIBYASA KHANDAI 
+Name: Shubham Bendkhale
 Comapany: CODTECH IT SOLUTIONS
-Id: CT04WD1866
 Domain: WEB DEVELOPMENT 
-Mentor: Muzammil
 
 Overview of the project:
 ------------------------
