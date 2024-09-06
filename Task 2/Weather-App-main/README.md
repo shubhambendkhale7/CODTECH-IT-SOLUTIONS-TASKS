@@ -19,12 +19,10 @@ With a user-friendly interface and accurate data from reputable weather APIs, yo
 3. Weather API: Retrieves weather data based on the user's location or city name.
 
 # How to Use
-
-1. Open the WeatherSense Forecast website in your web browser from the link - (https://anantagg.github.io/Weather-App/)
-2. Grant permission for the app to access your location when prompted.
-3. The app will display the current weather information for your area.
-4. To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
-5. The app will show the weather information based on the searched city.
+. Grant permission for the app to access your location when prompted.
+. The app will display the current weather information for your area.
+. To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
+. The app will show the weather information based on the searched city.
 
 # Installation
 
@@ -46,7 +44,7 @@ WeatherSense is created by me , which means you are free to use, modify, and dis
 
 # Contact
 
-If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me. You can contact me by email - anantaggcsai@gmail.com 
+If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me.
 or create an issue on the GitHub repository.
 
 # Final Thoughts
